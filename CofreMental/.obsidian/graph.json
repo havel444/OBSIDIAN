@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file: INDICE",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Estudios/Sql y Mysql\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Alimentacion",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Dia a Dia\"",
+      "color": {
+        "a": 1,
+        "rgb": 12124154
+      }
+    },
+    {
+      "query": "path:Entretenimiento",
+      "color": {
+        "a": 1,
+        "rgb": 4617211
+      }
+    },
+    {
+      "query": "path:\"Estudios/Html y Css\"",
+      "color": {
+        "a": 1,
+        "rgb": 9512191
+      }
+    },
+    {
+      "query": "path:Estudios/Ingles",
+      "color": {
+        "a": 1,
+        "rgb": 12386424
+      }
+    },
+    {
+      "query": "path:\"Estudios/Curso de Sql coderhouse\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Estudios/Conduccion",
+      "color": {
+        "a": 1,
+        "rgb": 16416896
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.83517647058824,
+  "lineSizeMultiplier": 1.35058088235294,
+  "collapse-forces": false,
+  "centerStrength": 0.476470588235294,
+  "repelStrength": 20,
+  "linkStrength": 0.871764705882353,
+  "linkDistance": 163,
+  "scale": 0.26103437623799347,
+  "close": true
+}

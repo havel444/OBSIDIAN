@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "58d7cdb1d3f3a185",
+    "type": "split",
+    "children": [
+      {
+        "id": "3173dd243d45feb4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Estudios/Linux/Primera etapa.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93282eccf46646e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "435669ef19fade5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a516522ba8f54ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "095645a9f0405d4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebcda372481ee5cf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5231ae642d01ef72",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dbe7aa3fa164952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69ab24be4ec59f46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudios/Linux/Primera etapa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e30d41918b490507",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6473b69bbd2e2f71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudios/Linux/Primera etapa.md"
+              }
+            }
+          },
+          {
+            "id": "c3815598562b84ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.3999938964844,
+    "collapsed": true
+  },
+  "active": "3173dd243d45feb4",
+  "lastOpenFiles": [
+    "Estudios/Linux/Primera etapa.md",
+    "Estudios/Linux/___Git_desde_0___.md",
+    "INDICE.md",
+    "Estudios/Linux/___Linux_desde_0___.md",
+    "Estudios/Linux/____Git_desde_0____.md",
+    "Estudios/Linux/1- Terminal modificacion.md",
+    "Estudios/Conduccion/1-Funciones de cada parte del auto.md",
+    "Estudios/Conduccion/2-Teoria del auto y señales de trafico.md",
+    "Estudios/Conduccion/2-Funciones de cada parte del auto.md",
+    "Estudios/Conduccion/1-Teoria del auto y señales de trafico.md"
+  ]
+}
