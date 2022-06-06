@@ -2,7 +2,4 @@
 # PRIMERA ETAPA
 
 ### Linux
-[[Primera etapa Linux]]
-
-
-
+[[etapa H]]

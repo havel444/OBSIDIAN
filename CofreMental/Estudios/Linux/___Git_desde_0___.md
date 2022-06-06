@@ -1,4 +1,4 @@
 [[INDICE]]
 
 ### Funciones git 
-[[Primera etapa]]
+[[Primera etapa Git]]
