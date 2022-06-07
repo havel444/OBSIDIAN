@@ -1,7 +1,7 @@
 [[INDICE]]
 [[___Conduccion_desde_0___]]
 ## Funsiones
-Auto:
+##### Acciones
 - luego de encender el auto esperar como 20s o 30s 
 
 Embrague: 
@@ -19,6 +19,7 @@ Acelerador:
 - presionar el embrague(mas de mil tacometros) con una intensidad media para luego acelerar y soltar el mismo cuando el auto este arrancado al 100%(SOLO en primera)
 
 
+##### Partes
 
 Espejos laterales: 
 - siempre apuntar la cola del auto un 10% max
@@ -30,10 +31,20 @@ Palanca:
 - Empujar un poco hacia el centro para volver al modo neutro
 
 
- Extra
- - En cada arranque precionar el embrague en primera para luego acelera a segunda.
+##### Medidores
+ 
+- En cada arranque precionar el embrague en primera para luego acelera a segunda.
+ 
+- Tacometro
 
 
+- Rpm 
+ Recomendable tener el medidor entre 2000 a 3000 rpm
+
+- L/km
+El numero adecuado ronda de 2000 a 3000  
+ 
+ 
 
 
 

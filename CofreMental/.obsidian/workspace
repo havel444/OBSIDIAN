@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudios/Linux/Primera etapa Linux.md",
+            "file": "Estudios/Conduccion/1-Funciones de cada parte del auto.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios/Linux/Primera etapa Linux.md",
+                "file": "Estudios/Conduccion/1-Funciones de cada parte del auto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios/Linux/Primera etapa Linux.md"
+                "file": "Estudios/Conduccion/1-Funciones de cada parte del auto.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "3173dd243d45feb4",
   "lastOpenFiles": [
+    "Estudios/Conduccion/1-Funciones de cada parte del auto.md",
     "Estudios/Linux/Primera etapa Linux.md",
     "Estudios/Linux/___Linux_desde_0___.md",
     "Estudios/Linux/etapa H.md",
@@ -136,7 +137,6 @@
     "Estudios/Linux/___Git_desde_0___.md",
     "INDICE.md",
     "Estudios/Linux/____Git_desde_0____.md",
-    "Estudios/Conduccion/1-Funciones de cada parte del auto.md",
     "Estudios/Conduccion/2-Teoria del auto y señales de trafico.md"
   ]
 }
