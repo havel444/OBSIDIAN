@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudios/Conduccion/1-Funciones de cada parte del auto.md",
+            "file": "Estudios/Conduccion/1-F. Auto.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios/Conduccion/1-Funciones de cada parte del auto.md",
+                "file": "Estudios/Conduccion/1-F. Auto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios/Conduccion/1-Funciones de cada parte del auto.md"
+                "file": "Estudios/Conduccion/1-F. Auto.md"
               }
             }
           },
@@ -128,7 +128,7 @@
   },
   "active": "3173dd243d45feb4",
   "lastOpenFiles": [
-    "Estudios/Conduccion/1-Funciones de cada parte del auto.md",
+    "Estudios/Conduccion/1-F. Auto.md",
     "Estudios/Linux/Primera etapa Linux.md",
     "Estudios/Linux/___Linux_desde_0___.md",
     "Estudios/Linux/etapa H.md",
