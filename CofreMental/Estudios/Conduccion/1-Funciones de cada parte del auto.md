@@ -47,6 +47,25 @@ El numero adecuado ronda de 2000 a 3000
  
 
 
+#### Resumen
+PRE-CONDUCCION
+1 - Cinturon y espejos 
+2 - Presionar el embrague, ponerlo en primera para encender el motor. Cambiar a neutro y esperar 30s segundos 
+
+CONDUCCION
+3 - Presionar el embrague, poner en primera y ascelerar manteniendo el tacometro(RPM) por encima de 2000. Soltar el embrague lentamente. 
+
+POS-CONDUCCION
+4 - Presionar el embrague, poner en neutro y frenar mantiniendo el tacometro(RPM) por encima de 1000. Soltar el embrague lentamente.
+
+DATOS EXTRA
+5 - Mantener los L/km por debado de los 10.000 para consumir menos gasolina 
+6 - asd
+7 - asd
+8 - asd
+9 - asd
+
+
 
 
 
